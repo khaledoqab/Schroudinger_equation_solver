@@ -1,0 +1,17 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}{\Large Abstract}}{2}{section.1}%
+\contentsline {section}{\numberline {2}{\Large Theory}}{2}{section.2}%
+\contentsline {section}{\numberline {3}{\Large \textbf {Computational mathods}}}{3}{section.3}%
+\contentsline {section}{\numberline {4}{\large \textbf {Test cases}}}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Infinite Square well:}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Harmonic Oscillator}{4}{subsection.4.2}%
+\contentsline {section}{\numberline {5}{\Large \textbf {Results}}}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Dispersion:}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Gaussian in an infinite well}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Tunneling}{6}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Double slit experiment}{8}{subsection.5.4}%
+\contentsline {section}{\numberline {6}\Large \textbf {Conclusion}}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Boundaries}{9}{subsection.6.1}%
+\contentsline {section}{\numberline {7}\Large \textbf {References}}{9}{section.7}%
+\contentsline {section}{\numberline {8}\Large \textbf {Appendicies}}{9}{section.8}%
+\contentsline {subsection}{\numberline {8.1}The Code}{9}{subsection.8.1}%
